@@ -12,7 +12,7 @@ import hangman.model.Phrase;
 /**
  * Play an instance of hangman on the console
  * 
- * @author vsam
+ * 
  *
  */
 public class ConsoleGame {
